@@ -23,12 +23,12 @@ header {
     align-items: center;
     position: relative;
     width: 940px;
-    /* padrão usa 940px pq se adapta com telas maiores */
+    /*obs.: padrão usa 940px pq se adapta com telas maiores */
     margin: 0 auto;
 }
 #logo{
-   width: 250px;
-   height: 150px;
+   width: 200px;
+   height: 180px;
 }
 
 nav {
@@ -109,15 +109,9 @@ section h3{
     width: 20%;
     padding: 20px 20px 20px 20px;
 }
-/* .produto {
-    display: flex;
-    flex-direction: row;
-    justify-content:center;
-} */
 .produto {
     display: inline-block;
     vertical-align: top;
-    /* border: 2px solid #733C37; */
     border-radius: 4px;
     margin: 15px;
 }
