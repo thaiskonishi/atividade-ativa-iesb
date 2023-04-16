@@ -124,6 +124,13 @@ footer{
     display: flex;
     flex-direction: column;
     justify-self: center ;
-    padding-left: 44%;
-    padding-right: 40%;
+    align-items: center;
+    padding-left: 40%;
+    padding-right: 30%;
+}
+
+#logotipo-footer{
+    height: 70px;    
+    width: 60px;
+    padding-top: 5%;
 }
